@@ -1,4 +1,1 @@
-HelloWorldProject
-=================
-
-Helloworld
+Hello World app for Android Studio
